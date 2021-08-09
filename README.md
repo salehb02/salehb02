@@ -3,5 +3,6 @@ Im Saleh Bagheri and I'm software developer. I'm from Iran, living in Qom and cu
 <br><br>
 <h2>🔧 Technology and Tools</h2>
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=2bbc8a)
-<h2>📈 GitHub Stats</h2>
+<br><br>
+GitHub Stats
 ![Salehs's GitHub stats](https://github-readme-stats.vercel.app/api?username=salehb02&theme=dark&show_icons=true)
