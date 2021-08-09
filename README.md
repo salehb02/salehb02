@@ -5,10 +5,10 @@ Im Saleh Bagheri and I'm software developer. I'm from Iran, living in Qom and cu
 <h2>🔧 Technology and Tools</h2>
 
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=for-the-badge&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=for-the-badge&logo=VisualStudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=for-the-badge&logo=VisualStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=CSharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Game-Engine-Unity-informational?style=for-the-badge&logo=Unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GameEngine-Unity-informational?style=for-the-badge&logo=Unity&logoColor=white&color=2bbc8a)
 
 <br><br>
 <h2>📈 GitHub Stats<\h2>
