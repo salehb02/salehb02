@@ -11,6 +11,6 @@ Im Saleh Bagheri and I'm software developer. I'm from Iran, living in Qom and cu
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
 
 <br>
-<h2>📈 GitHub Stats<\h2>
+<h2>📈 GitHub Stats</h2>
   
 ![Salehs's GitHub stats](https://github-readme-stats.vercel.app/api?username=salehb02&theme=dark&show_icons=true)
