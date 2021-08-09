@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Saleh Bagheri!
+- 👀 I’m interested in C#, Python and everything about computer and IT
+- 🌱 I’m currently learning Python
