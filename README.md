@@ -1,9 +1,16 @@
 <h2>Hey, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 Im Saleh Bagheri and I'm software developer. I'm from Iran, living in Qom and currently learning on University! 
+
 <br><br>
 <h2>🔧 Technology and Tools</h2>
 
+![](https://img.shields.io/badge/OS-Windows 10-informational?style=for-the-badge&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual Studio-informational?style=for-the-badge&logo=Visual Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual Studio-informational?style=for-the-badge&logo=Visual Studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C#-informational?style=for-the-badge&logo=C Sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Game Engine-Unity-informational?style=for-the-badge&logo=Unity&logoColor=white&color=2bbc8a)
+
 <br><br>
 <h2>📈 GitHub Stats<\h2>
   
