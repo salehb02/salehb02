@@ -1,6 +1,5 @@
 <h2>Hey, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-I'm Saleh Bagheri and I'm software developer. <br>
-I'm from Iran, living in Qom and currently not studying at University!
+I'm Saleh Bagheri and I'm game programmer. <br>
 
 <br>
 <h2>🔧 Technology and Tools</h2>
