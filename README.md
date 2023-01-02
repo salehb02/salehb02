@@ -1,8 +1,8 @@
-<h2>Hey, Guys!</h2>
-I'm Saleh Bagheri and I'm game programmer. <br>
+<h2>Helo</h2>
+I'm gameplay programmer :) <br>
 
 <br>
-<h2>🔧 Technology and Tools</h2>
+<h2>🔧 My Tools and Techs</h2>
 
 ![](https://img.shields.io/badge/OS-Windows&nbsp;10-informational?style=for-the-badge&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Game&nbsp;Engine-Unity-informational?style=for-the-badge&logo=Unity&logoColor=white&color=2bbc8a)
