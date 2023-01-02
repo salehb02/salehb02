@@ -1,6 +1,6 @@
 <h2>Helo</h2>
-I'm gameplay programmer :) <br>
-And Generalist <br>
+I'm Gameplay Programmer :) <br>
+And Generalist. <br>
 
 <br>
 <h2>🔧 My Tools</h2>
