@@ -11,6 +11,7 @@ And Generalist <br>
 ![](https://img.shields.io/badge/Version&nbsp;Control-Github-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/3D-Maya-informational?style=for-the-badge&logo=Autodesk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Texture-Substance&nbsp;Painter-informational?style=for-the-badge&logo=Adobe&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Photo&nbsp;Edit-Photoshop-informational?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&color=2bbc8a)
 
 <br>
