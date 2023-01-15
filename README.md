@@ -1,4 +1,4 @@
-<h2>Helo</h2>
+<h2>Hi</h2>
 I'm Gameplay Programmer :) <br>
 And Generalist. <br>
 
