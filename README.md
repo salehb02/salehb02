@@ -1,6 +1,6 @@
-<h2>Hi</h2>
+<h2>Hi!</h2>
 I'm Gameplay Programmer :) <br>
-And Generalist. <br>
+Generalist, too. <br>
 
 <br>
 <h2>🔧 My Tools</h2>
