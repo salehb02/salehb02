@@ -1,8 +1,3 @@
-<h2>Hi!</h2>
-I'm Gameplay Programmer :) <br>
-Generalist, too. <br>
-
-<br>
 <h2>🔧 My Tools</h2>
 
 ![](https://img.shields.io/badge/Game&nbsp;Engine-Unity-informational?style=for-the-badge&logo=Unity&logoColor=white&color=2bbc8a)
